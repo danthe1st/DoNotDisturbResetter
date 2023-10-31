@@ -15,4 +15,5 @@ I want to enable `Do not disturb` and bluetooth while I'm driving (so that my ph
 and I want to make sure I don't forget to turn it off again.
 
 I wrote this app as a tool just for myself and don't intend it to be used by other people.
+Hence, it is not really developed with usability (for other people) in mind.
 However, if parts of it are useful for someone, I provided the Source Code here.
